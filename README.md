@@ -112,7 +112,7 @@ The primary goal of this task is to capture live network packets using **Wiresha
 <br>
 <br>
 
-### Step 5: Export the capture as a .pcap file<br>
+### Step 6: Export the capture as a .pcap file<br>
 
 <p align="left">• The capture was saved using <strong>"File"</stron> $\rightarrow$ <strong>"Save As..."</strong> and exported to the host machine via a configured shared folder.</strong>p>
 <p align="left">• I have attached the pcap file for your reference.</p><br>
