@@ -112,6 +112,12 @@ The primary goal of this task is to capture live network packets using **Wiresha
 <br>
 <br>
 
+### Step 5: Export the capture as a .pcap file<br>
+
+<p align="left">• The capture was saved using <strong>"File"</stron> $\rightarrow$ <strong>"Save As..."</strong> and exported to the host machine via a configured shared folder.</strong>p>
+<p align="left">• I have attached the pcap file for your reference.</p><br>
+<br>
+
 ### 📝 Summarizing The Findings and Packet Details<br>
 
 <p align="left">The capture demonstrates the complexity of modern encrypted communication: the client first uses DNS (over UDP) for resolution, then utilizes TCP/TLS for security setup. For high-speed data transfer (like video), the connection shifts to the QUIC protocol (also over UDP), carrying the HTTP/2 application data securely and efficiently.</p>
