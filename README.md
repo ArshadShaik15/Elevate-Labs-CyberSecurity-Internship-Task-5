@@ -34,6 +34,7 @@ The primary goal of this task is to capture live network packets using **Wiresha
 <p align="left">• To ensure a variety of protocols, browsing a secure site (Generates DNS, TCP, QUIC, and TLS traffic) is necessary.</p>
 <p align="left">• So i decided to run <strong>Youtube</strong> in the dedicated browser - <strong>Mozilla Firefox</strong> in Kali Linux VM</p><br>
 <br>
+<br>
 
 ### Step 3: Stop Capture After A Minute<br>
 
